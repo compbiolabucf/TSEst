@@ -3,3 +3,5 @@ TSEst is a multi-modal time series imputation model that can use an additional m
 
 ### **Framework**
 <img src="https://github.com/compbiolabucf/TSEst/blob/main/Fig-1.png" width="450" height="450">
+
+## Environment
