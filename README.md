@@ -5,4 +5,4 @@ TSEst is a multi-modal time series imputation model that can use an additional m
 <img src="https://github.com/compbiolabucf/TSEst/blob/main/Fig-1.png" width="450" height="450">
 
 ## Environment
-Environment can be created using the command **conda env create -f my_conda_env.yml**. https://github.com/compbiolabucf/TSEst/blob/main/my_conda_env.yml
+Environment can be created using the command **conda env create -f my_conda_env.yml**. [my_conda_env.yml] (https://github.com/compbiolabucf/TSEst/blob/main/my_conda_env.yml)
