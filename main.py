@@ -14,9 +14,6 @@ from modeling.unified_dataloader import UnifiedDataLoader
 from modeling.utils import Controller, setup_logger, save_model, load_model, check_saving_dir_for_model, \
     masked_mae_cal, masked_rmse_cal, masked_mre_cal
 
-np.random.seed(42)
-torch.manual_seed(42)
-
 """We follow the same transformer encoder and a similar overall structure as https://github.com/WenjieDu/SAITS. """ 
 """If you are looking for an uni-modal imputation framework, you may also take a look at that paper."""
 
